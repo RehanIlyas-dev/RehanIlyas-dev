@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Rehan
 
-<!--
-**RehanIlyas-dev/RehanIlyas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Basic C++ Programmer  
+🧠 Interested in Logic Building & Discrete Mathematics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Computer Science student focusing on **programming fundamentals**
+- Learning and practicing **basic C++**
+- Interested in **logical problem-solving** and **discrete mathematics**
+- Building **console-based applications** to strengthen concepts
+
+---
+
+## 🛠️ Skills
+- **Language:** C++ (Basic)
+- **Concepts:** Programming Fundamentals, Propositional Logic, Discrete Mathematics
+- **Tools:** Git, GitHub, VS Code
+- **Environment:** Windows
+
+---
+
+## 📂 Projects
+- 🔹 **Mini University Management System (C++)**  
+  Console-based application implementing basic concepts like loops, conditions, functions, and arrays
+
+- 🔹 **Small C++ Practice Programs**  
+  Programs focused on logic building and understanding core C++ concepts
+
+---
+
+## 🎯 Future Goals
+- Strengthen C++ fundamentals and move toward **intermediate-level C++**
+- Learn **Data Structures & Algorithms**
+- Build more **real-world console-based systems**
+- Explore **software development** and different CS fields
+- Become confident in solving programming problems independently
+
+---
+
+## 📚 Currently Learning
+- C++ basics in depth
+- Algorithmic thinking
+- Discrete mathematics
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@RehanIlyas-dev](https://github.com/RehanIlyas-dev)
+
+---
+
+⭐ *Learning step by step and building strong foundations*
