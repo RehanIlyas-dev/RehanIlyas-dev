@@ -23,8 +23,15 @@
 ---
 
 ## 📂 Projects
+- 🔹 **Propositional Logic Analyzer (C++)**  
+  Console-based program that generates truth tables and checks:
+  - Logical equivalence  
+  - Tautology  
+  - Contradiction  
+  - Contingency  
+
 - 🔹 **Mini University Management System (C++)**  
-  Console-based application implementing basic concepts like loops, conditions, functions, and arrays
+  Console-based application implementing loops, conditions, functions, and arrays
 
 - 🔹 **Small C++ Practice Programs**  
   Programs focused on logic building and understanding core C++ concepts
@@ -34,8 +41,8 @@
 ## 🎯 Future Goals
 - Strengthen C++ fundamentals and move toward **intermediate-level C++**
 - Learn **Data Structures & Algorithms**
-- Build more **real-world console-based systems**
-- Explore **software development** and different CS fields
+- Build more **logic-based systems**
+- Explore different areas of **software development**
 - Become confident in solving programming problems independently
 
 ---
