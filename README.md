@@ -2,21 +2,21 @@
 
 🎓 Computer Science Student  
 💻 Basic C++ Programmer  
-🧠 Interested in Logic Building & Discrete Mathematics  
+🧠 Interested in Logic Building  
 
 ---
 
 ## 🚀 About Me
 - Computer Science student focusing on **programming fundamentals**
 - Learning and practicing **basic C++**
-- Interested in **logical problem-solving** and **discrete mathematics**
+- Interested in **logical problem-solving** 
 - Building **console-based applications** to strengthen concepts
 
 ---
 
 ## 🛠️ Skills
 - **Language:** C++ (Basic)
-- **Concepts:** Programming Fundamentals, Propositional Logic, Discrete Mathematics
+- **Concepts:** Programming Fundamentals, Propositional Logic
 - **Tools:** Git, GitHub, VS Code
 - **Environment:** Windows
 
@@ -50,8 +50,6 @@
 ## 📚 Currently Learning
 - C++ basics in depth
 - Algorithmic thinking
-- Discrete mathematics
-
 ---
 
 ## 📫 Connect With Me
