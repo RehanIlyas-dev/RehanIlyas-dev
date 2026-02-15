@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Skills
-- **Language:** C++ (Basic)
-- **Concepts:** Programming Fundamentals, Propositional Logic
-- **Tools:** Git, GitHub, VS Code
-- **Environment:** Windows
+- **Language:** C++, C#, Python 
+- **Concepts:** Programming Fundamentals, Object Oriented Programming, Logic Buliding, Database Systems
+- **Tools:** Git, GitHub, VS Code, Microsoft Visual Studio, MySql 
+- **Environment:** Windows, Linux
 
 ---
 
@@ -48,7 +48,7 @@
 ---
 
 ## 📚 Currently Learning
-- C++ basics in depth
+- C# basics in depth
 - Algorithmic thinking
 ---
 
