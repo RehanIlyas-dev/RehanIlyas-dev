@@ -39,7 +39,7 @@
 ---
 
 ## 🎯 Future Goals
-- Strengthen C++ fundamentals and move toward **intermediate-level C++**
+- Strengthen C++ fundamentals and move toward ****C# & Java and master them**
 - Learn **Data Structures & Algorithms**
 - Build more **logic-based systems**
 - Explore different areas of **software development**
