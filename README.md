@@ -18,7 +18,7 @@
 - **Language:** C++, C#, Python 
 - **Concepts:** Programming Fundamentals, Object Oriented Programming, Logic Buliding, Database Systems
 - **Tools:** Git, GitHub, VS Code, Microsoft Visual Studio, MySql 
-- **Environment:** Windows, Linux
+- **Environment:** Linux , Windows
 
 ---
 
