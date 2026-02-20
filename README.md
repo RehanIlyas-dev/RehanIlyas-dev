@@ -48,7 +48,7 @@
 ---
 
 ## 📚 Currently Learning
-- C#, Python basics in depth
+- C#, Python & SQL basics in depth
 - Algorithmic thinking
 ---
 
