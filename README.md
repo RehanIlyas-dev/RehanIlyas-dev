@@ -33,7 +33,7 @@
 - 🔹 **Mini University Management System (C++)**  
   Console-based application implementing loops, conditions, functions, and arrays
 
-- 🔹 **Small C++ Practice Programs**  
+- 🔹 **Small C++, C# & Python Practice Programs**  
   Programs focused on logic building and understanding core C++ concepts
 
 ---
