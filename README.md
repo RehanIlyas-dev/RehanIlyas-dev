@@ -39,7 +39,7 @@
 ---
 
 ## 🎯 Future Goals
-- Strengthen C++, C#, & Python and move toward **** Python Libraries for ML and master them**
+- Strengthen C++, C#, & Python and move toward  Python Libraries for ML and master them
 - Learn **Data Structures & Algorithms**
 - Build more **logic-based systems**
 - Explore different areas of **software development**
