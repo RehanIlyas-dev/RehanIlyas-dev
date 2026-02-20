@@ -1,14 +1,14 @@
 # Hi 👋, I'm Rehan
 
 🎓 Computer Science Student  
-💻 Basic C++ Programmer  
+💻 Basic C++, C# & Python Programmer  
 🧠 Interested in Logic Building  
 
 ---
 
 ## 🚀 About Me
 - Computer Science student focusing on **programming fundamentals**
-- Learning and practicing **basic C++**
+- Learning and practicing **C++, C#, Python & SQL**
 - Interested in **logical problem-solving** 
 - Building **console-based applications** to strengthen concepts
 
@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Projects
-- 🔹 **Propositional Logic Analyzer (C++)**  
+- 🔹 **Propositional Logic Analyzer (C++)** /**(Also in Python with statement of logical equivalences & logical laws)** 
   Console-based program that generates truth tables and checks:
   - Logical equivalence  
   - Tautology  
@@ -39,7 +39,7 @@
 ---
 
 ## 🎯 Future Goals
-- Strengthen C++ fundamentals and move toward ****C# & Java and master them**
+- Strengthen C++, C#, & Python and move toward **** Python Libraries for ML and master them**
 - Learn **Data Structures & Algorithms**
 - Build more **logic-based systems**
 - Explore different areas of **software development**
@@ -48,7 +48,7 @@
 ---
 
 ## 📚 Currently Learning
-- C# basics in depth
+- C#, Python basics in depth
 - Algorithmic thinking
 ---
 
