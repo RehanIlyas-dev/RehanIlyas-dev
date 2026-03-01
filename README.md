@@ -113,5 +113,5 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake.svg" />
 </p>
