@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">A passionate & Aspiring Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanilyas-dev" alt="rehanilyas-dev" /></a> </p>
-
 - 🔭 I’m currently working on **My Programming Concepts & Python**
 
 - 🌱 I’m currently learning **C#, SQL, Python**
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **rehanilyas4726@gmail.com**
 
-- ⚡ Fun fact **I wanna know how Machines learn & convey us info**
+- ⚡ Fun fact  **I wanna know how Machines learn & convey us info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
