@@ -1,79 +1,118 @@
-Hi 👋, I'm Rehan Ilyas
-Aspiring Machine Learning Engineer
+# Hi 👋, I'm Rehan Ilyas
 
+### Aspiring Machine Learning Engineer  
 Building strong foundations before building intelligent systems.
 
-🚀 About Me
+---
 
-Computer Science Student
+## 🚀 About Me
 
-Strong focus on Logic Building and Programming Fundamentals
+I am a Computer Science student focused on mastering programming fundamentals and strengthening logical thinking.
 
-Currently mastering C++, C#, Python & SQL
+Rather than rushing into frameworks, I focus on understanding core concepts deeply — how algorithms work, how systems are structured, and how problems are solved step by step.
 
-Preparing for Data Structures, Algorithms & Machine Learning
+My goal is to become a Machine Learning Engineer who not only uses ML libraries but understands the mathematics and logic behind intelligent systems.
 
-I believe in understanding how algorithms work internally before using advanced libraries.
+---
 
-🧠 Current Focus
+## 🧠 Current Focus
 
-Strengthening problem-solving skills
+- Strengthening C++, C#, and Python fundamentals  
+- Practicing algorithmic thinking  
+- Learning Data Structures and Algorithms  
+- Building console-based systems  
+- Preparing for Machine Learning foundations  
 
-Practicing algorithmic thinking
+---
 
-Building console-based systems
+## 🛠️ Tech Stack
 
-Preparing for Machine Learning foundations
+### Languages
+- C++
+- C#
+- Python
+- SQL
 
-🛠️ Tech Stack
+### Core Concepts
+- Programming Fundamentals  
+- Object-Oriented Programming  
+- Logical Problem Solving  
+- Algorithmic Thinking  
+- Database Systems  
 
-Languages
-C++ | C# | Python | SQL
+### Tools
+- Git
+- GitHub
+- VS Code
+- Microsoft Visual Studio
+- MySQL
 
-Tools
-Git | GitHub | VS Code | Visual Studio | MySQL
+### Environment
+- Linux
+- Windows
 
-Environment
-Linux | Windows
+---
 
-📂 Featured Projects
-🔹 Propositional Logic Analyzer
+## 📂 Featured Projects
 
-C++ & Python application that generates truth tables and checks logical equivalence, tautology, contradiction, and contingency.
+### 🔹 Propositional Logic Analyzer
+C++ and Python application that:
 
-🔹 Mini University Management System
+- Generates truth tables  
+- Checks logical equivalence  
+- Identifies tautology, contradiction, and contingency  
+- Implements logical laws  
 
-Console-based C++ project implementing structured program design.
+Built to strengthen discrete mathematics and logical reasoning.
 
-📊 GitHub Stats
+---
 
-Add this below in your README:
+### 🔹 Mini University Management System
+Console-based C++ application implementing:
+
+- Loops and conditions  
+- Functions  
+- Arrays  
+- Structured program design  
+
+Focused on improving system modeling and program organization skills.
+
+---
+
+### 🔹 Logic Practice Programs
+A collection of small C++, C#, and Python programs designed to improve:
+
+- Logical thinking  
+- Problem-solving ability  
+- Core programming clarity  
+
+---
+
+## 📊 GitHub Stats
 
 ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight)
-🏆 GitHub Trophies
 
-Add this:
+---
+
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-Step 2 — Add Contribution Snake Animation
 
-Add this section:
+---
 
-## 🐍 Contribution Snake
+## 🎯 Long-Term Goal
 
-![snake gif](https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake.svg)
+To become a confident Machine Learning Engineer capable of designing and building intelligent systems from scratch.
 
-(We can set this up later with GitHub Actions if you want.)
+Strong foundations today. Intelligent systems tomorrow.
 
-Step 3 — Add Social Links Section
-
-Add this in your README:
+---
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rehan-ilyas-3373b937b  
-Reddit: https://www.reddit.com/u/rehan_ilyas_03  
-Instagram: https://www.instagram.com/rehan_ilyas03  
-Facebook: https://www.facebook.com/share/18Phr1kQVj/
+- LinkedIn: https://www.linkedin.com/in/rehan-ilyas-3373b937b  
+- Reddit: https://www.reddit.com/u/rehan_ilyas_03  
+- Instagram: https://www.instagram.com/rehan_ilyas03  
+- Facebook: https://www.facebook.com/share/18Phr1kQVj/  
