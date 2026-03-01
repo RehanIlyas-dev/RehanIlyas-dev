@@ -1,118 +1,34 @@
-# Hi 👋, I'm Rehan Ilyas
+<h1 align="center">Hi 👋, I'm Rehan</h1>
+<h3 align="center">A passionate & Aspiring Machine Learning Enthusiast</h3>
 
-### Aspiring Machine Learning Engineer  
-Building strong foundations before building intelligent systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehanilyas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rehanilyas-dev" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanilyas-dev" alt="rehanilyas-dev" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **My Programming Concepts & Python**
 
-I am a Computer Science student focused on mastering programming fundamentals and strengthening logical thinking.
+- 🌱 I’m currently learning **C#, SQL, Python**
 
-Rather than rushing into frameworks, I focus on understanding core concepts deeply — how algorithms work, how systems are structured, and how problems are solved step by step.
+- 👨‍💻 All of my projects are available at [rehanilyas-dev.github.io](rehanilyas-dev.github.io)
 
-My goal is to become a Machine Learning Engineer who not only uses ML libraries but understands the mathematics and logic behind intelligent systems.
+- 📫 How to reach me **rehanilyas4726@gmail.com**
 
----
+- ⚡ Fun fact **I wanna know how Machines learn & convey us info**
 
-## 🧠 Current Focus
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rehan-ilyas-3373b937b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rehan-ilyas-3373b937b?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/18phr1kqvj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18phr1kqvj/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rehan_ilyas03?igsh=mwj3axd6dgn3dnu0cg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rehan_ilyas03?igsh=mwj3axd6dgn3dnu0cg==" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/rehanilyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rehanilyas/" height="30" width="40" /></a>
+</p>
 
-- Strengthening C++, C#, and Python fundamentals  
-- Practicing algorithmic thinking  
-- Learning Data Structures and Algorithms  
-- Building console-based systems  
-- Preparing for Machine Learning foundations  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehanilyas-dev&show_icons=true&locale=en&layout=compact" alt="rehanilyas-dev" /></p>
 
-## 🛠️ Tech Stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanilyas-dev&show_icons=true&locale=en" alt="rehanilyas-dev" /></p>
 
-### Languages
-- C++
-- C#
-- Python
-- SQL
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanilyas-dev&" alt="rehanilyas-dev" /></p>
 
-### Core Concepts
-- Programming Fundamentals  
-- Object-Oriented Programming  
-- Logical Problem Solving  
-- Algorithmic Thinking  
-- Database Systems  
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Microsoft Visual Studio
-- MySQL
-
-### Environment
-- Linux
-- Windows
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Propositional Logic Analyzer
-C++ and Python application that:
-
-- Generates truth tables  
-- Checks logical equivalence  
-- Identifies tautology, contradiction, and contingency  
-- Implements logical laws  
-
-Built to strengthen discrete mathematics and logical reasoning.
-
----
-
-### 🔹 Mini University Management System
-Console-based C++ application implementing:
-
-- Loops and conditions  
-- Functions  
-- Arrays  
-- Structured program design  
-
-Focused on improving system modeling and program organization skills.
-
----
-
-### 🔹 Logic Practice Programs
-A collection of small C++, C#, and Python programs designed to improve:
-
-- Logical thinking  
-- Problem-solving ability  
-- Core programming clarity  
-
----
-
-## 📊 GitHub Stats
-
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🎯 Long-Term Goal
-
-To become a confident Machine Learning Engineer capable of designing and building intelligent systems from scratch.
-
-Strong foundations today. Intelligent systems tomorrow.
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/rehan-ilyas-3373b937b  
-- Reddit: https://www.reddit.com/u/rehan_ilyas_03  
-- Instagram: https://www.instagram.com/rehan_ilyas03  
-- Facebook: https://www.facebook.com/share/18Phr1kQVj/  
