@@ -1,60 +1,79 @@
-# Hi 👋, I'm Rehan
+Hi 👋, I'm Rehan Ilyas
+Aspiring Machine Learning Engineer
 
-🎓 Computer Science Student  
-💻 Basic C++, C# & Python Programmer  
-🧠 Interested in Logic Building  
+Building strong foundations before building intelligent systems.
 
----
+🚀 About Me
 
-## 🚀 About Me
-- Computer Science student focusing on **programming fundamentals**
-- Learning and practicing **C++, C#, Python & SQL**
-- Interested in **logical problem-solving** 
-- Building **console-based applications** to strengthen concepts
+Computer Science Student
 
----
+Strong focus on Logic Building and Programming Fundamentals
 
-## 🛠️ Skills
-- **Language:** C++, C#, Python 
-- **Concepts:** Programming Fundamentals, Object Oriented Programming, Logic Buliding, Database Systems
-- **Tools:** Git, GitHub, VS Code, Microsoft Visual Studio, MySQL 
-- **Environment:** Linux , Windows
+Currently mastering C++, C#, Python & SQL
 
----
+Preparing for Data Structures, Algorithms & Machine Learning
 
-## 📂 Projects
-- 🔹 **Propositional Logic Analyzer (C++)** /**(Also in Python with statement of logical equivalences & logical laws)** 
-  Console-based program that generates truth tables and checks:
-  - Logical equivalence  
-  - Tautology  
-  - Contradiction  
-  - Contingency  
+I believe in understanding how algorithms work internally before using advanced libraries.
 
-- 🔹 **Mini University Management System (C++)**  
-  Console-based application implementing loops, conditions, functions, and arrays
+🧠 Current Focus
 
-- 🔹 **Small C++, C# & Python Practice Programs**  
-  Programs focused on logic building and understanding core C++ concepts
+Strengthening problem-solving skills
 
----
+Practicing algorithmic thinking
 
-## 🎯 Future Goals
-- Strengthen C++, C#, & Python and move toward  Python Libraries for ML and master them
-- Learn **Data Structures & Algorithms**
-- Build more **logic-based systems**
-- Explore different areas of **software development**
-- Become confident in solving programming problems independently
+Building console-based systems
 
----
+Preparing for Machine Learning foundations
 
-## 📚 Currently Learning
-- C#, Python & SQL basics in depth
-- Algorithmic thinking
----
+🛠️ Tech Stack
 
-## 📫 Connect With Me
-- GitHub: [@RehanIlyas-dev](https://github.com/RehanIlyas-dev)
+Languages
+C++ | C# | Python | SQL
 
----
+Tools
+Git | GitHub | VS Code | Visual Studio | MySQL
 
-⭐ *Learning step by step and building strong foundations*
+Environment
+Linux | Windows
+
+📂 Featured Projects
+🔹 Propositional Logic Analyzer
+
+C++ & Python application that generates truth tables and checks logical equivalence, tautology, contradiction, and contingency.
+
+🔹 Mini University Management System
+
+Console-based C++ project implementing structured program design.
+
+📊 GitHub Stats
+
+Add this below in your README:
+
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight)
+🏆 GitHub Trophies
+
+Add this:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+Step 2 — Add Contribution Snake Animation
+
+Add this section:
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake.svg)
+
+(We can set this up later with GitHub Actions if you want.)
+
+Step 3 — Add Social Links Section
+
+Add this in your README:
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/rehan-ilyas-3373b937b  
+Reddit: https://www.reddit.com/u/rehan_ilyas_03  
+Instagram: https://www.instagram.com/rehan_ilyas03  
+Facebook: https://www.facebook.com/share/18Phr1kQVj/
