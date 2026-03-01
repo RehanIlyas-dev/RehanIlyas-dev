@@ -75,7 +75,7 @@
 <h2>🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src= https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg />
 </div>
 
 ---
