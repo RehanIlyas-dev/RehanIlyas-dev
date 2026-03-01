@@ -58,22 +58,6 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&border_radius=12" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanIlyas-dev&theme=tokyonight&border_radius=12" />
-
-</div>
-
----
-
 <h2>🌐 Connect with Me</h2>
 
 <div align="center">
