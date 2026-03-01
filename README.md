@@ -1,101 +1,80 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=200&section=header&text=Rehan%20Ilyas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20&animation=fadeIn" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think+%F0%9F%A7%A0;Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Turning+data+into+intelligence+%F0%9F%93%8A;Future+ML+Engineer+loading...+60%25" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think+%F0%9F%A7%A0;Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Turning+data+into+intelligence+%F0%9F%93%8A;Future+ML+Engineer+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+60%25" alt="Typing SVG" />
 </div>
 
 <br>
 
 ---
 
-## `> whoami`
+<h2>🧑‍💻 About Me</h2>
 
-```python
-class RehanIlyas:
-    def __init__(self):
-        self.name        = "Rehan Ilyas"
-        self.role        = "Aspiring Machine Learning Engineer"
-        self.location    = "Pakistan 🇵🇰"
-        self.portfolio   = "https://rehanilyas-dev.github.io"
-        self.email       = "rehanilyas4726@gmail.com"
-
-    def current_focus(self):
-        return [
-            "🔭  Strengthening Programming Fundamentals & Python",
-            "🌱  Learning C#, SQL & Data Structures",
-            "🎯  Goal: Become a Machine Learning Engineer",
-            "⚡  Fascinated by how machines learn from raw data",
-        ]
-
-    def ask_me_about(self):
-        return ["ML concepts", "Python", "C++", "Web Dev", "Data Structures"]
-```
+- 🔭 Currently strengthening **Programming Fundamentals & Python**
+- 🌱 Learning **C#, SQL & Data Structures**
+- 🎯 Goal: Becoming a **Machine Learning Engineer**
+- 👨‍💻 Portfolio: [rehanilyas-dev.github.io](https://rehanilyas-dev.github.io)
+- 📫 Reach me: **rehanilyas4726@gmail.com**
+- ⚡ Fascinated by how machines learn and turn raw data into intelligence
 
 ---
 
-## `> skills --list`
+<h2>🛠️ Languages & Tools</h2>
+
+<h4>🧠 Core Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql&theme=dark" />
+</p>
+
+<h4>🌐 Web Stack</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+<h4>⚙️ Tools & Platforms</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,dotnet,vscode&theme=dark" />
+</p>
+
+---
+
+<h2>🗺️ ML Engineer Roadmap</h2>
 
 <div align="center">
 
-### 🧠 Core Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql&theme=dark" />
-</p>
-
-### 🌐 Web Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,dotnet,vscode&theme=dark" />
-</p>
+| Stage | Topic | Status |
+|-------|-------|--------|
+| 01 | Programming Fundamentals (C++, Python) | ✅ Active |
+| 02 | Data Structures & Algorithms | 🔄 In Progress |
+| 03 | SQL & Databases | 🔄 In Progress |
+| 04 | Mathematics for ML | 📌 Up Next |
+| 05 | ML Frameworks (NumPy, Pandas, Sklearn) | 🔜 Queued |
+| 06 | Deep Learning (PyTorch / TensorFlow) | 🔜 Queued |
+| 07 | 🎯 ML Engineer Role | 🏁 Goal |
 
 </div>
 
 ---
 
-## `> git log --stats`
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&border_radius=12" />
 
-</div>
+<br><br>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanIlyas-dev&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanIlyas-dev&theme=tokyonight&border_radius=12" />
+
 </div>
 
 ---
 
-## `> track progress --ml-roadmap`
-
-```
-ML Engineer Roadmap ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  [██████████] Programming Fundamentals (C++, Python)   ✅ Active
-  [████████░░] Data Structures & Algorithms              🔄 In Progress
-  [██████░░░░] SQL & Databases                           🔄 In Progress  
-  [███░░░░░░░] Mathematics for ML (Linear Algebra, Calc) 📌 Up Next
-  [░░░░░░░░░░] ML Frameworks (NumPy, Pandas, Sklearn)    🔜 Queued
-  [░░░░░░░░░░] Deep Learning (PyTorch / TensorFlow)      🔜 Queued
-  [░░░░░░░░░░] ML Engineer Role                          🎯 Goal
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## `> ssh social --connect`
+<h2>🌐 Connect with Me</h2>
 
 <div align="center">
 
@@ -109,28 +88,22 @@ ML Engineer Roadmap ━━━━━━━━━━━━━━━━━━━━
 
 ---
 
-## `> watch contributions --animate`
+<h2>🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## `> uptime --random-quote`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github.com/RehanIlyas-dev/RehanIlyas-dev/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RehanIlyas-dev&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=120&section=footer&animation=fadeIn"/>
-
-*"The goal is to turn data into information, and information into insight."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=120&section=footer&animation=fadeIn" />
 
 </div>
