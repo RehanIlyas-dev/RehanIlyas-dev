@@ -6,6 +6,7 @@
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Teaching+machines+to+think+🧠;Building+logic%2C+one+line+at+a+time+✍️;Turning+data+into+intelligence+📊;Future+ML+Engineer+loading...+60%25;Open+to+collaborate+%26+contribute+🤝" />
 
+<br/>
 </div>
 
 ---
