@@ -8,10 +8,9 @@
 
 <br/>
 
-<!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=RehanIlyas-dev&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/RehanIlyas-dev?style=for-the-badge&color=00BFFF&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev?tab=followers)
-[![Stars](https://img.shields.io/github/stars/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev)
+[![GitHub Stars](https://img.shields.io/github/stars/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev)
 
 </div>
 
@@ -19,25 +18,19 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class RehanIlyas:
-    def __init__(self):
-        self.name        = "Rehan Ilyas"
-        self.role        = "Aspiring Machine Learning Engineer"
-        self.location    = "Pakistan 🇵🇰"
-        self.portfolio   = "https://rehanilyas-dev.github.io"
-        self.email       = "rehanilyas4726@gmail.com"
-        self.currently   = ["C++", "Python", "Data Structures", "SQL"]
-        self.learning    = ["Mathematics for ML", "NumPy", "Pandas", "Sklearn"]
-        self.goal        = "🎯 Become a Machine Learning Engineer"
-        self.fun_fact    = "I believe data has a story to tell — I'm here to listen."
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together 🚀")
+- 👤 **Name:** Rehan Ilyas
+- 🎯 **Goal:** Becoming a **Machine Learning Engineer**
+- 📍 **Location:** Pakistan 🇵🇰
+- 🔭 **Currently working on:** Programming Fundamentals & Python
+- 🌱 **Learning:** C#, SQL & Data Structures
+- 📖 **Next up:** Mathematics for ML
+- 💼 **Portfolio:** [rehanilyas-dev.github.io](https://rehanilyas-dev.github.io)
+- 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+- ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
-me = RehanIlyas()
-me.say_hi()
-```
+<br clear="right"/>
 
 ---
 
@@ -77,7 +70,7 @@ me.say_hi()
 | 05 | ML Frameworks (NumPy, Pandas, Sklearn) | 🔜 Queued |
 | 06 | Deep Learning (PyTorch / TensorFlow) | 🔜 Queued |
 | 07 | MLOps & Deployment | 🔜 Queued |
-| � | **Machine Learning Engineer** | 🎯 Final Goal |
+| 🏁 | **Machine Learning Engineer** | 🎯 Final Goal |
 
 </div>
 
@@ -87,9 +80,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00BFFF&ring=00BFFF&fire=FFD700&currStreakLabel=00BFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00BFFF&ring=00BFFF&fire=FFD700&currStreakLabel=00BFFF&sideLabels=ffffff" />
 
 <br/><br/>
 
@@ -99,11 +91,11 @@ me.say_hi()
 
 ---
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -113,21 +105,23 @@ me.say_hi()
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=00BFFF&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=00BFFF&hide_border=true&theme=tokyo-night" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> **⚠️ Snake animation needs a one-time GitHub Actions setup — see instructions below ↓**
 
 </div>
 
@@ -141,40 +135,32 @@ me.say_hi()
 
 </div>
 
-I'm actively looking for **contributors**, **collaborators**, and **open-source enthusiasts** to join me on this journey. Here's how you can get involved:
+I'm actively looking for **contributors**, **collaborators**, and **open-source enthusiasts** to grow together. Here's how you can get involved:
 
-### � How to Contribute
+### 🌟 How to Contribute
 
-```
-1. 🍴  Fork any of my repositories
-2. 🌿  Create a new branch:  git checkout -b feature/YourFeature
-3. 💾  Commit your changes:  git commit -m "Add: YourFeature"
-4. 📤  Push to the branch:   git push origin feature/YourFeature
-5. 🔁  Open a Pull Request — I'll review it ASAP!
-```
+1. 🍴 **Fork** any of my repositories
+2. 🌿 **Create a branch:** `git checkout -b feature/YourFeature`
+3. 💾 **Commit changes:** `git commit -m "Add: YourFeature"`
+4. 📤 **Push:** `git push origin feature/YourFeature`
+5. 🔁 **Open a Pull Request** — I'll review it ASAP!
 
 ### 💡 What You Can Contribute
 
-| Area | Contribution Ideas |
+| Area | Ideas |
 |---|---|
 | 🐛 Bug Fixes | Find and fix bugs in any project |
-| ✨ New Features | Suggest or add new functionality |
+| ✨ New Features | Suggest or implement new functionality |
 | 📖 Documentation | Improve README or add code comments |
 | 🎨 UI/UX | Improve portfolio visuals and design |
 | 🧪 Testing | Write test cases for existing projects |
 | 🌐 Portfolio | Report issues on [my portfolio](https://rehanilyas-dev.github.io) |
 
-### 🏅 Contributors
-
-> **Your name could be here!** Every contribution — big or small — matters. Stars ⭐, forks 🍴, and pull requests are all welcome!
-
-<br/>
-
 <div align="center">
 
 [![Open Issues](https://img.shields.io/github/issues/RehanIlyas-dev/RehanIlyas-dev?style=for-the-badge&color=FF6B6B&labelColor=0D0D0D&logo=github&label=Open+Issues)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/pulls)
-[![Forks](https://img.shields.io/github/forks/RehanIlyas-dev/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/fork)
+[![Fork](https://img.shields.io/github/forks/RehanIlyas-dev/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/fork)
 
 </div>
 
@@ -209,7 +195,7 @@ I'm actively looking for **contributors**, **collaborators**, and **open-source 
 
 <br/>
 
-**⭐ If you find my work useful, please consider starring my repositories — it really helps! ⭐**
+**⭐ If you find my work useful, please star my repositories — it really helps! ⭐**
 
 <br/>
 
