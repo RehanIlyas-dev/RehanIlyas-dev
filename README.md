@@ -5,17 +5,12 @@
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Teaching+machines+to+think+🧠;Building+logic%2C+one+line+at+a+time+✍️;Turning+data+into+intelligence+📊;Future+ML+Engineer+loading...+60%25;Open+to+collaborate+%26+contribute+🤝" />
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RehanIlyas-dev&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/RehanIlyas-dev?style=for-the-badge&color=00BFFF&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
