@@ -93,7 +93,6 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> **⚠️ Snake animation needs a one-time GitHub Actions setup — see instructions below ↓**
 
 </div>
 
