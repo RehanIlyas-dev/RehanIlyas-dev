@@ -4,7 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Teaching+machines+to+think+🧠;Building+logic%2C+one+line+at+a+time+✍️;Turning+data+into+intelligence+📊;Future+ML+Engineer+loading...+60%25;Open+to+collaborate+%26+contribute+🤝" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=🤖+Machine+Learning+Engineer+—+In+Progress;Teaching+machines+to+think+🧠;Building+logic%2C+one+line+at+a+time+✍️;Turning+raw+data+into+intelligence+📊;ML+Engineer+loading...+▓▓▓▓▓▓░░░░+60%25;Open+to+collaborate+%26+contribute+🤝" />
+
+<br/>
+
+![ML Progress](https://img.shields.io/badge/🎯%20ML%20Engineer%20Journey-60%25%20Complete-00BFFF?style=for-the-badge&labelColor=0D0D0D)
 
 <br/>
 
@@ -75,29 +79,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00BFFF&ring=00BFFF&fire=FFD700&currStreakLabel=00BFFF&sideLabels=ffffff" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00BFFF&text_color=ffffff&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RehanIlyas-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
 
 ---
 
