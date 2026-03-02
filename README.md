@@ -4,8 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=🤖+Machine+Learning+Engineer+%E2%80%94+In+Progress;Teaching+machines+to+think+%F0%9F%A7%A0;Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Turning+data+into+intelligence+%F0%9F%93%8A;Future+ML+Engineer+loading...+60%25;Open+to+collaborate+%26+contribute+%F0%9F%A4%9D" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Teaching+machines+to+think+🧠;Building+logic%2C+one+line+at+a+time+✍️;Turning+data+into+intelligence+📊;Future+ML+Engineer+loading...+60%25;Open+to+collaborate+%26+contribute+🤝" />
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RehanIlyas-dev&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
