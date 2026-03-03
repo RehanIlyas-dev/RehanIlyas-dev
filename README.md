@@ -18,8 +18,8 @@
 - 👤 **Name:** Rehan Ilyas
 - 🎯 **Goal:** Becoming a **Machine Learning Engineer**
 - 📍 **Location:** Pakistan 🇵🇰
-- 🔭 **Currently working on:** Programming Fundamentals & Python
-- 🌱 **Learning:** C#, SQL , Object Oriented Programming & Python
+- 🔭 **Currently working on:** Object Oriented Programming & Database
+- 🌱 **Learning:** C#, SQL & Python
 - 📖 **Next up:** Data Structures & Mathematics for ML
 - 💼 **Portfolio:** [rehanilyas-dev.github.io](https://rehanilyas-dev.github.io)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
