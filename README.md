@@ -19,8 +19,8 @@
 - 🎯 **Goal:** Becoming a **Machine Learning Engineer**
 - 📍 **Location:** Pakistan 🇵🇰
 - 🔭 **Currently working on:** Programming Fundamentals & Python
-- 🌱 **Learning:** C#, SQL & Data Structures
-- 📖 **Next up:** Mathematics for ML
+- 🌱 **Learning:** C#, SQL , Object Oriented Programming & Python
+- 📖 **Next up:** Data Structures & Mathematics for ML
 - 💼 **Portfolio:** [rehanilyas-dev.github.io](https://rehanilyas-dev.github.io)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
