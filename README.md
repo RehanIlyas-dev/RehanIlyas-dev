@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+l<!-- HEADER BANNER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
@@ -21,7 +21,7 @@
 - 🔭 **Currently working on:** Object Oriented Programming & Database
 - 🌱 **Learning:** C#, SQL & Python
 - 📖 **Next up:** Data Structures & Mathematics for ML
-- 💼 **Portfolio:** [My Portfolio](rehan-ilyas.vercel.app)
+- 💼 **Portfolio:** [My Portfolio](https://rehan-ilyas.vercel.app/)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
