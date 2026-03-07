@@ -1,4 +1,4 @@
-l<!-- HEADER BANNER -->
+<!-- HEADER BANNER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
