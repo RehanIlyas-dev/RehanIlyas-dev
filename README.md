@@ -21,7 +21,7 @@
 - 🔭 **Currently working on:** Object Oriented Programming & Database
 - 🌱 **Learning:** C#, SQL & Python
 - 📖 **Next up:** Data Structures & Mathematics for ML
-- 💼 **Portfolio:** [rehanilyas-dev.github.io](https://rehanilyas-dev.github.io)
+- 💼 **Portfolio:** [rehanilyas-dev.github.io](https://rehan-ilyas-dev-github-io.vercel.app/)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
