@@ -52,27 +52,6 @@
 
 ---
 
-## 🗺️ ML Engineer Roadmap
-
-<div align="center">
-
-| 🔢 Stage | 📚 Topic | 📌 Status |
-|:---:|---|:---:|
-| 01 | Programming Fundamentals (C++, Python) | ✅ Done |
-| 02 | Data Structures & Algorithms | 🔄 In Progress |
-| 03 | SQL & Databases | 🔄 In Progress |
-| 04 | Mathematics for ML (Lin Alg, Stats, Calculus) | 📌 Up Next |
-| 05 | ML Frameworks (NumPy, Pandas, Sklearn) | 🔜 Queued |
-| 06 | Deep Learning (PyTorch / TensorFlow) | 🔜 Queued |
-| 07 | MLOps & Deployment | 🔜 Queued |
-| 🏁 | **Machine Learning Engineer** | 🎯 Final Goal |
-
-</div>
-
----
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
