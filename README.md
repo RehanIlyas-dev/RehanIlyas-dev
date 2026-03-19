@@ -87,33 +87,6 @@
 
 I'm actively looking for **contributors**, **collaborators**, and **open-source enthusiasts** to grow together. Here's how you can get involved:
 
-### 🌟 How to Contribute
-
-1. 🍴 **Fork** any of my repositories
-2. 🌿 **Create a branch:** `git checkout -b feature/YourFeature`
-3. 💾 **Commit changes:** `git commit -m "Add: YourFeature"`
-4. 📤 **Push:** `git push origin feature/YourFeature`
-5. 🔁 **Open a Pull Request** — I'll review it ASAP!
-
-### 💡 What You Can Contribute
-
-| Area | Ideas |
-|---|---|
-| 🐛 Bug Fixes | Find and fix bugs in any project |
-| ✨ New Features | Suggest or implement new functionality |
-| 📖 Documentation | Improve README or add code comments |
-| 🎨 UI/UX | Improve portfolio visuals and design |
-| 🧪 Testing | Write test cases for existing projects |
-| 🌐 Portfolio | Report issues on [my portfolio](https://rehanilyas-dev.github.io) |
-
-<div align="center">
-
-[![Open Issues](https://img.shields.io/github/issues/RehanIlyas-dev/RehanIlyas-dev?style=for-the-badge&color=FF6B6B&labelColor=0D0D0D&logo=github&label=Open+Issues)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/pulls)
-[![Fork](https://img.shields.io/github/forks/RehanIlyas-dev/RehanIlyas-dev?style=for-the-badge&color=FFD700&labelColor=0D0D0D&logo=github)](https://github.com/RehanIlyas-dev/RehanIlyas-dev/fork)
-
-</div>
-
 ---
 
 ## 🌐 Connect with Me
