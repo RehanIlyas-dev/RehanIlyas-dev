@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Future+AI+Engineer+25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Future+AI+Engineer..." />
 
 <br/>
 </div>
