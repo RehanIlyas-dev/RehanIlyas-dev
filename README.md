@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20🚀&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think+%F0%9F%A7%A0;Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Turning+data+into+intelligence+%F0%9F%93%8A;Future+ML+Engineer+loading...+60%25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think+%F0%9F%A7%A0;Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Turning+data+into+intelligence+%F0%9F%93%8A;Future+AI+Engineer+loading...+60%25" />
 
 <br/>
 </div>
@@ -16,11 +16,11 @@
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 👤 **Name:** Rehan Ilyas
-- 🎯 **Goal:** Becoming a **Machine Learning Engineer**
+- 🎯 **Goal:** Becoming an **AI Engineer**
 - 📍 **Location:** Pakistan 🇵🇰
 - 🔭 **Currently working on:** Object Oriented Programming & Database
 - 🌱 **Learning:** C#, SQL & Python
-- 📖 **Next up:** Data Structures & Mathematics for ML
+- 📖 **Next up:** Data Structures M Advanced AI Concepts
 - 💼 **Portfolio:** [My Portfolio](https://rehan-ilyas.vercel.app/)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
