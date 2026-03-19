@@ -77,18 +77,6 @@
 
 ---
 
-## 🤝 Let's Collaborate & Contribute!
-
-<div align="center">
-
-> **"Alone we can do so little; together we can do so much."** — _Helen Keller_
-
-</div>
-
-I'm actively looking for **contributors**, **collaborators**, and **open-source enthusiasts** to grow together. Here's how you can get involved:
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
