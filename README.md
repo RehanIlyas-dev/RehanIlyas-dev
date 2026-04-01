@@ -21,7 +21,7 @@
 - 🔭 **Currently working on:** Object Oriented Programming & Database
 - 🌱 **Learning:** C#, SQL & Python
 - 📖 **Next up:** Data Structures & Advanced AI Concepts
-- 💼 **Portfolio:** [My Portfolio](https://rehan-ilyas.vercel.app/)
+- 💼 **Portfolio:** [My Portfolio](https://rehan-ilyas-six.vercel.app/)
 - 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
