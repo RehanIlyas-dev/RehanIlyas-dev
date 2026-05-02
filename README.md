@@ -38,11 +38,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql&theme=dark" />
 </p>
 
-#### 🌐 Web Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
 #### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,dotnet,vscode&theme=dark" />
