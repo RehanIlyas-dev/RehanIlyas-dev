@@ -11,34 +11,34 @@
 
 ---
 
-## 🧑💻 About Me
+##  About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👤 **Name:** Rehan Ilyas
-- 🎯 **Goal:** Becoming an **AI Engineer**
-- 📍 **Location:** Pakistan 🇵🇰
-- 🔭 **Currently working on:** Object Oriented Programming & Database
-- 🌱 **Learning:** C#, SQL & Python
-- 📖 **Next up:** Data Structures & Advanced AI Concepts
-- 💼 **Portfolio:** [My Portfolio](https://rehan-ilyas-six.vercel.app/)
-- 📫 **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
-- ⚡ **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
+-  **Name:** Rehan Ilyas
+-  **Goal:** Becoming an **AI Engineer**
+-  **Location:** Pakistan 🇵🇰
+-  **Currently working on:** Object Oriented Programming & Database
+-  **Learning:** C#, SQL & Python
+-  **Next up:** Data Structures & Advanced AI Concepts
+-  **Portfolio:** [My Portfolio](https://rehan-ilyas-six.vercel.app/)
+-  **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+-  **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
-#### 🧠 Core Languages
+####  Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql&theme=dark" />
 </p>
 
-#### ⚙️ Tools & Platforms
+####  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,dotnet,vscode&theme=dark" />
 </p>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+##  Watch My Contributions Get Eaten!
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 💬 Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
 
