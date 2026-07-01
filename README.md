@@ -12,21 +12,27 @@
 ---
 
 ## About Me
-<div align="right">
-  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55); filter:hue-rotate(235deg) saturate(1.35) brightness(0.95);" alt="Purple shaded boy coding" />
-</div>
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 - **Name:** Rehan Ilyas
 - **Goal:** Becoming an **AI Engineer**
 - **Location:** Pakistan 🇵🇰
-- **Currently working on:** Object Oriented Programming & Database
-- **Learning:** C#, SQL & Python
+- **Currently working on:** Python & AI Concepts
+- **Learning:** Web Development & Python
 - **Next up:** Data Structures & Advanced AI Concepts
 - **Portfolio:** [My Portfolio](https://rehanilyas.vercel.app/)
 - **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
-<br clear="right"/>
+</td>
+<td align="center" valign="center" width="40%">
+  <img width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhnd2hwbG9tenh1cjJ1OXdkazVhbnJpNzk5Zzhvc3BxNmo0M244aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55);" alt="Purple shaded boy coding" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,11 +41,13 @@
 <div align="center">
 
 #### Core Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,mysql&theme=dark" />
 </p>
 
 #### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,dotnet,vscode&theme=dark" />
 </p>
