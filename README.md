@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+logic%2C+one+line+at+a+time+%E2%9C%8D%EF%B8%8F;Future+AI+Engineer..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+logic%2C+one+line+at+a+time+%F0%9F%92%BB;AI+Engineer+in+the+making;Coding+with+purpose+and+passion" />
 
 <br/>
 </div>
@@ -35,7 +35,7 @@
 
 ####  Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,python,mysql&theme=dark" />
 </p>
 
 ####  Tools & Platforms
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=00BFFF&hide_border=true&theme=tokyo-night" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
