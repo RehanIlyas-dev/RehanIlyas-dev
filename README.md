@@ -25,7 +25,6 @@
 - **Next up:** Data Structures & Advanced AI Concepts
 - **Portfolio:** [My Portfolio](https://rehanilyas.vercel.app/)
 - **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
-- **Fun fact:** I believe data has a story to tell — I'm here to listen 🎧
 
 </td>
 <td align="center" valign="center" width="40%">
