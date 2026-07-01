@@ -12,9 +12,7 @@
 ---
 
 ## About Me
-<div align="right">
-  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55); filter:hue-rotate(235deg) saturate(1.35) brightness(0.92);" />
-</div>
+<img align="right" width="280" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 - **Name:** Rehan Ilyas
 - **Goal:** Becoming an **AI Engineer**
