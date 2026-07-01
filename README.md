@@ -96,15 +96,6 @@
 
 ---
 
-<!-- FOOTER -->
-<div align="center">
-
-<br/>
-
-**⭐ If you find my work useful, please star my repositories — it really helps! ⭐**
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00BFFF,100:0D0D0D&height=140&section=footer&animation=fadeIn" />
 
 </div>
