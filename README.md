@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8A2BE2,100:FF4ECD&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20in%20Progress&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8A2BE2,100:FF4ECD&height=220&section=header&text=Rehan%20Ilyas&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4ECD&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Turning+ideas+into+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4ECD&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Turning+ideas+into+projects;Learning+one+line+at+a+time" alt="Typing SVG" />
 
 <br/>
 </div>
@@ -12,7 +12,9 @@
 ---
 
 ## About Me
-<img align="right" width="280" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+<div align="right">
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55); filter:hue-rotate(235deg) saturate(1.35) brightness(0.95);" alt="Purple shaded boy coding" />
+</div>
 
 - **Name:** Rehan Ilyas
 - **Goal:** Becoming an **AI Engineer**
@@ -50,7 +52,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=8A2BE2&line=FF4ECD&point=FFD166&area=true&area_color=8A2BE2&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=8A2BE2&line=FF4ECD&point=FFD166&area=true&area_color=8A2BE2&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -60,12 +62,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak stats" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&icon_color=FF4ECD&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&icon_color=FF4ECD&text_color=FFFFFF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&text_color=FFFFFF" alt="Top languages" />
 
 </div>
 
@@ -115,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 
 </div>
 
