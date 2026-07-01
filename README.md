@@ -13,9 +13,7 @@
 
 ## About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhnd2hwbG9tenh1cjJ1OXdkazVhbnJpNzk5Zzhvc3BxNmo0M244aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55);" alt="Purple shaded boy coding" />
 
 - **Name:** Rehan Ilyas
 - **Goal:** Becoming an **AI Engineer**
@@ -26,12 +24,7 @@
 - **Portfolio:** [My Portfolio](https://rehanilyas.vercel.app/)
 - **Email:** [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 
-</td>
-<td align="center" valign="center" width="40%">
-  <img width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhnd2hwbG9tenh1cjJ1OXdkazVhbnJpNzk5Zzhvc3BxNmo0M244aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="border-radius:12px; box-shadow:0 0 25px rgba(138,43,226,0.55);" alt="Purple shaded boy coding" />
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
