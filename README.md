@@ -72,6 +72,21 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&icon_color=FF4ECD&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&text_color=FFFFFF" />
+
+</div>
+
+---
+
 ##  Connect with Me
 
 <div align="center">
@@ -85,6 +100,18 @@
 </div>
 
 ---
+
+---
+
+## Profile Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RehanIlyas-dev&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RehanIlyas-dev?label=Followers&style=for-the-badge&color=FF4ECD)
+![Stars](https://img.shields.io/github/stars/RehanIlyas-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FFD166)
+
+</div>
 
 ##  Dev Quote of the Day
 
