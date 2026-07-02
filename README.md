@@ -45,17 +45,6 @@
 </p>
 
 </div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanIlyas-dev&bg_color=0D0D0D&color=8A2BE2&line=FF4ECD&point=FFD166&area=true&area_color=8A2BE2&hide_border=true" alt="Contribution graph" />
-
-</div>
-
 ---
 
 ## GitHub Stats
