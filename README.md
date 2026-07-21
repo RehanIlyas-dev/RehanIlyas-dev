@@ -47,11 +47,10 @@ I'm a developer from Pakistan passionate about **Artificial Intelligence** and b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=RehanIlyas-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RehanIlyas-dev&theme=radical" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RehanIlyas-dev&theme=radical" alt="Top Languages" />
 
 </div>
 
