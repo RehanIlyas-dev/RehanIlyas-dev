@@ -47,25 +47,11 @@ I'm a developer from Pakistan passionate about **Artificial Intelligence** and b
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&icon_color=FF4ECD&text_color=FFFFFF)](https://github.com/RehanIlyas-dev)
+![Stats](https://github-readme-stats.vercel.app/api?username=RehanIlyas-dev&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=8A2BE2&text_color=FFFFFF)](https://github.com/RehanIlyas-dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RehanIlyas-dev&theme=tokyonight&hide_border=true&background=0D0D0D&ring=8A2BE2&fire=FF4ECD&currStreakLabel=FF4ECD&sideNums=FFFFFF&currStreakNum=FFFFFF)](https://github.com/RehanIlyas-dev)
-
-</div>
-
----
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RehanIlyas-dev/RehanIlyas-dev/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Streak](https://streak-stats.demolab.com?user=RehanIlyas-dev&theme=radical&hide_border=true)
 
 </div>
 
