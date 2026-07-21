@@ -10,10 +10,9 @@
 
 ## About Me
 
-I'm a developer from Pakistan passionate about **Artificial Intelligence** and building practical projects. I enjoy learning new technologies and turning ideas into working software.
+I'm a developer from Pakistan passionate about **Artificial Intelligence** and building practical projects. I enjoy learning new technologies and turning ideas into working software. I am passionate about becoming an **AI Engineer** and contributing to the field of Artificial Intelligence.
 
 - Currently focused on **Python & AI Concepts**
-- Learning **Web Development** alongside
 - Based in Pakistan
 - [Portfolio](https://rehan-ilyas.vercel.app/)
 - [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
