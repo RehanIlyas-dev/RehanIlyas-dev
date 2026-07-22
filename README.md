@@ -8,54 +8,43 @@
 
 ---
 
-## About Me
+Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
 
-I'm a developer from Pakistan passionate about **Artificial Intelligence** and building practical projects. I enjoy learning new technologies and turning ideas into working software. I am passionate about becoming an **AI Engineer** and contributing to the field of Artificial Intelligence.
-
-- Currently focused on **Python & AI Concepts**
-- Based in Pakistan
-- [Portfolio](https://rehan-ilyas.vercel.app/)
-- [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+- 🔭 Currently diving deep into **Python & AI**
+- 🌱 Also learning **Web Development**
+- 🌐 [Portfolio](https://rehan-ilyas.vercel.app/)
+- 📫 [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 
 ---
 
-## Languages & Tools
+## Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RehanIlyas-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RehanIlyas-dev&theme=radical" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RehanIlyas-dev&theme=radical" alt="Top Languages" />
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=RehanIlyas-dev&theme=neon&stats=true" alt="3D Contribution Graph" />
 
 </div>
 
 ---
-
-## Connect
 
 <div align="center">
 
@@ -63,7 +52,6 @@ I'm a developer from Pakistan passionate about **Artificial Intelligence** and b
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehan_ilyas03)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rehanilyas/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://rehan-ilyas.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanilyas4726@gmail.com)
 
 </div>
 
