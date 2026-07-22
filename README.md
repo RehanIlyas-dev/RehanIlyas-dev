@@ -10,10 +10,9 @@
 
 Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
 
-- 🔭 Currently diving deep into **Python & AI**
-- 🌱 Also learning **Web Development**
-- 🌐 [Portfolio](https://rehan-ilyas.vercel.app/)
-- 📫 [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+- Currently diving deep into **Python & AI**
+- [My Portfolio](https://rehan-ilyas.vercel.app/)
+- [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 
 ---
 
