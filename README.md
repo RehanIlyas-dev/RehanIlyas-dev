@@ -35,9 +35,7 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 **Data Science & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
 </p>
 
 **Database & Tools**
