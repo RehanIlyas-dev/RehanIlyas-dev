@@ -51,7 +51,7 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
 
 </div>
 
