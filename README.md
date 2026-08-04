@@ -47,11 +47,11 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 </div>
 ---
 
-## 3D Contribution Graph
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=RehanIlyas-dev&theme=neon&stats=true" alt="3D Contribution Graph" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
