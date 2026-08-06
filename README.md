@@ -53,7 +53,7 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanIlyas-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
