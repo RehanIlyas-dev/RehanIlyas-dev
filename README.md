@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8A2BE2,100:FF4ECD&height=200&section=header&text=Rehan%20Ilyas&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
-</div>
+<h1 align="center">👋 Hi, I'm Rehan Ilyas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Future+AI+Engineer;Python+%26+Web+Developer;Open+Source+Learner" />
@@ -8,15 +6,21 @@
 
 ---
 
-Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
+Hey there! I'm **Rehan**, a CS student at UET Lahore, Pakistan 🇵🇰, on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
 
-- Currently diving deep into **Python & AI**
-- The beginner in **Data Structures and Algorithms**
-- [My Portfolio](https://rehan-ilyas.vercel.app/)
-- [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+**About me**
+
+- 🎓 CS undergraduate at UET Lahore, Pakistan
+- 🤖 Currently diving deep into **Python & AI**
+- 📚 Beginner in **Data Structures and Algorithms**
+- 🔭 Building AI news & automation at [techdaily.io](https://techdaily.io)
+- 💬 Ask me about anything [here](https://github.com/RehanIlyas-dev/RehanIlyas-dev/issues)
+- 📫 Reach me at [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
+- 🌐 [My Portfolio](https://rehan-ilyas.vercel.app/)
 
 ---
-## Tech Stack
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -45,9 +49,10 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 </p>
 
 </div>
+
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -64,6 +69,8 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 </div>
 
 ---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
