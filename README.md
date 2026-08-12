@@ -51,7 +51,15 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://gitlyy.vercel.app/api/streak?username=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![Contribution Streak](https://gitlyy.vercel.app/api/contribution?username=RehanIlyas-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
+
+</div>
+
+<div align="center">
+
+[![GitHub Stats](https://gitlyy.vercel.app/api/overview?username=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![Top Languages](https://gitlyy.vercel.app/api/languages?username=RehanIlyas-dev&theme=radical&layout=compact&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 ![Top Languages](./profile/top-langs.svg)
 
