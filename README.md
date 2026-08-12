@@ -61,8 +61,6 @@ Hey there! I'm **Rehan**, a developer from Pakistan on a mission to become an **
 [![GitHub Stats](https://gitlyy.vercel.app/api/overview?username=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
 [![Top Languages](https://gitlyy.vercel.app/api/languages?username=RehanIlyas-dev&theme=radical&layout=compact&hide_border=true)](https://github.com/RehanIlyas-dev)
 
-![Top Languages](./profile/top-langs.svg)
-
 </div>
 
 ---
