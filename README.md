@@ -73,5 +73,3 @@ I'm **Rehan Ilyas**, a Computer Science student at UET Lahore, Pakistan, on a mi
 </p>
 
 ---
-
-<p align="center"><i>This profile was built with Python, PIL, and GitHub's plain Markdown.</i></p>
