@@ -54,8 +54,7 @@ I'm **Rehan Ilyas**, a Computer Science student at UET Lahore, Pakistan, on a mi
 
 <div align="center">
 
-[![GitHub Streak](https://gitlyy.vercel.app/api/streak?username=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
-[![Contribution Streak](https://gitlyy.vercel.app/api/contribution?username=RehanIlyas-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
 
 </div>
 
