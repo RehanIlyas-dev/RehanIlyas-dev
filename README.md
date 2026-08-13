@@ -1,13 +1,12 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hi, I'm Rehan Ilyas</h1>
 
-I'm **Rehan Ilyas**, a Computer Science student at UET Lahore, Pakistan, on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
+A Computer Science student at UET Lahore, Pakistan, on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
 
 **About Me**
 
 - CS undergraduate at UET Lahore, Pakistan
 - Currently diving deep into **Python & AI**
 - Beginner in **Data Structures and Algorithms**
-- Building AI news & automation workflows as a side project
 - Ask me about anything [here](https://github.com/RehanIlyas-dev/RehanIlyas-dev/issues)
 - Reach me at [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - [My Portfolio](https://rehan-ilyas.vercel.app/)
