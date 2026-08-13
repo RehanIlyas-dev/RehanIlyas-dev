@@ -1,9 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hi, I'm Rehan Ilyas</h1>
 
-<p align="center">
-  <img src="assets/header.png" width="100%" alt="Rehan Ilyas - Future AI Engineer" />
-</p>
-
 I'm **Rehan Ilyas**, a Computer Science student at UET Lahore, Pakistan, on a mission to become an **AI Engineer**. I love building things with Python, exploring AI concepts, and turning ideas into real projects.
 
 **About Me**
@@ -54,7 +50,7 @@ I'm **Rehan Ilyas**, a Computer Science student at UET Lahore, Pakistan, on a mi
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RehanIlyas-dev&theme=radical&hide_border=true&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 </div>
 
