@@ -49,14 +49,14 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 <div align="center">
 
-[![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 </div>
 
 <div align="center">
 
-[![GitHub Stats](https://gitlyy.vercel.app/api/overview?username=RehanIlyas-dev&theme=radical&hide_border=true)](https://github.com/RehanIlyas-dev)
-[![Top Languages](https://gitlyy.vercel.app/api/languages?username=RehanIlyas-dev&theme=radical&layout=compact&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![GitHub Stats](https://gitlyy.vercel.app/api/overview?username=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![Top Languages](https://gitlyy.vercel.app/api/languages?username=RehanIlyas-dev&theme=dark&layout=compact&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 </div>
 
