@@ -11,37 +11,6 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 - Reach me at [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - [My Portfolio](https://rehan-ilyas.vercel.app/)
 
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,cs&theme=dark" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-</p>
-
-**Data Science & AI**
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
-</p>
-
-**Database & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,dotnet,vscode,docker&theme=dark" />
-</p>
-
-</div>
 
 ---
 
@@ -50,13 +19,6 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 <div align="center">
 
 [![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
-
-</div>
-
-<div align="center">
-
-[![GitHub Stats](https://gitlyy.vercel.app/api/overview?username=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
-[![Top Languages](https://gitlyy.vercel.app/api/languages?username=RehanIlyas-dev&theme=dark&layout=compact&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 </div>
 
