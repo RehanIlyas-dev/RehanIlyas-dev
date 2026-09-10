@@ -18,7 +18,7 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 <div align="center">
 
-[![GitHub Streak](https://gh-motion-card.vercel.app/api/github-motion?username=RehanIlyas-dev&theme=dark&animation=snake&shape=square)](https://github.com/RehanIlyas-dev)
+[![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
 
 </div>
 
@@ -28,7 +28,7 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 <div align="center">
 
-[![Top Languages](https://statsforge.ballabotond.com/card?username=RehanIlyas-dev&theme=dark&barAnimationSpeed=1000&numberOfLanguages=5)](https://github.com/RehanIlyas-dev)
+[![Top Languages](https://statsforge.ballabotond.com/card?username=RehanIlyas-dev&theme=dark&sortBy=repos&numberOfLanguages=5)](https://github.com/RehanIlyas-dev)
 
 </div>
 
