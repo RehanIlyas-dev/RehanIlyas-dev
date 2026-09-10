@@ -22,15 +22,7 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 </div>
 
----
 
-## Top Languages
-
-<div align="center">
-
-[![Top Languages](https://statsforge.ballabotond.com/card?username=RehanIlyas-dev&theme=dark&sortBy=repos&numberOfLanguages=5)](https://github.com/RehanIlyas-dev)
-
-</div>
 
 ---
 
