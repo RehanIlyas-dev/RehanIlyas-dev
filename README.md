@@ -18,7 +18,17 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 <div align="center">
 
-[![GitHub Streak](https://readme-utils.vercel.app/streak?user=RehanIlyas-dev&theme=dark&hide_border=true)](https://github.com/RehanIlyas-dev)
+[![GitHub Streak](https://github-stats-nine-lemon.vercel.app/api/streak?username=RehanIlyas-dev&theme=dark)](https://github.com/RehanIlyas-dev)
+
+</div>
+
+---
+
+## Top Languages
+
+<div align="center">
+
+[![Top Languages](https://github-stats-nine-lemon.vercel.app/api/langs?username=RehanIlyas-dev&theme=dark)](https://github.com/RehanIlyas-dev)
 
 </div>
 
