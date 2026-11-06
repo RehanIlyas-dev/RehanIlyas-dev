@@ -6,7 +6,7 @@ A Computer Science student at UET Lahore, Pakistan, on a mission to become an **
 
 - CS undergraduate at UET Lahore, Pakistan
 - Currently diving deep into **Python & AI**
-- Beginner in **Data Structures and Algorithms**
+- Studying **Data Structures and Algorithms**
 - Ask me about anything [here](https://github.com/RehanIlyas-dev/RehanIlyas-dev/issues)
 - Reach me at [rehanilyas4726@gmail.com](mailto:rehanilyas4726@gmail.com)
 - [My Portfolio](https://rehan-ilyas.vercel.app/)
